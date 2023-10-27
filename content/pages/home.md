@@ -33,9 +33,7 @@ blocks:
           color: primary
           style: float
         title: This Is a Feature
-        text: >-
-          Vestibulum ante ipsum primis in faucibus orci luctus et
-          ultricessadsadsdasd
+        text: change text
       - icon:
           name: BiPalette
           color: green
