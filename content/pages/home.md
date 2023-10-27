@@ -1,13 +1,10 @@
 ---
 title: Tina Cloud Starter
 blocks:
-  - headline: Welcome to the Tina Starter
-    text: >
-      This project is set up to show you the basics of working with Tina. You're
-      looking at the landing page, which pulls content from
-      `content/pages/home.md`, components from components/blocks, and puts them
-      all together in `pages/[filename].tsx`, all based on a config
-      `tina/config.tsx`.
+  - tagline: asdsadsad
+    headline: Dapplets
+    text: |
+      Hello world!
     actions:
       - label: Get Started
         type: button
@@ -30,15 +27,15 @@ blocks:
           color: red
           style: float
         title: Amazing Feature
-        text: >-
-          Aliquam blandit felis rhoncus, eleifend ipsum in, condimentum nibh.
-          Praesent ac faucibus risus, eu lacinia enim.
+        text: asdsadasdasdsd
       - icon:
           name: BiLike
           color: primary
           style: float
         title: This Is a Feature
-        text: Vestibulum ante ipsum primis in faucibus orci luctus et ultrices.
+        text: >-
+          Vestibulum ante ipsum primis in faucibus orci luctus et
+          ultricessadsadsdasd
       - icon:
           name: BiPalette
           color: green
@@ -56,6 +53,4 @@ blocks:
     color: primary
     _template: testimonial
 ---
-
-
 
